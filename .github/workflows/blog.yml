@@ -1,0 +1,23 @@
+name: "Blog updater"
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *' # Every Day
+
+jobs:
+  update_blogs:
+    name: "Update blog posts"
+    runs-on: ubuntu-latest
+    steps:
+      - name: "Fetching repository contents"
+        uses: actions/checkout@main
+
+      - name: "Hashnode updater"
+        uses: "varunsridharan/action-hashnode-blog@main"
+        with:
+          USERNAME: 'duboiss'
+          COUNT: 5
+          STYLE: 'list-ordered'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
