@@ -7,8 +7,7 @@
                                                                                                                   
 ### Hello friend 👋
 - 🔭 I’m currently working on [SymForum](https://github.com/DuboisS/SymForum), a forum built with Symfony.
-- ⚡ Skills: PHP, Symfony 4 & 5, Vue.js 2, Docker
-- 📘 Learning: Docker, Vue.js 3, Mercure
+- ⚡ Skills: PHP, Symfony 4 & 5, Vue.js, Docker
 
 ### Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
