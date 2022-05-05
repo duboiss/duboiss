@@ -8,7 +8,7 @@
 ### Hello friend 👋
 PHP developer, Symfony lover.
 
-I am a back-end developer invested in all processes from development to delivery (CI/CD, deployment...).
+I am a back-end developer invested in all processes from development to delivery (docker environments, CI/CD, monitoring...).
 
 I work a lot with PHP and particularly the Symfony framework, Vue.js, Docker and AWS.
 
