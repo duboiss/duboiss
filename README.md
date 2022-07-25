@@ -23,5 +23,6 @@ On my free time, I read a lot of articles, contribute to open-source projects, a
 👉 [duboiss.fr](https://www.duboiss.fr/)
 
 [![AWS Solutions Architect Associate](https://zupimages.net/up/22/20/a9rq.png)](https://www.credly.com/badges/0ab411c6-f914-492a-90e5-d94ea846e37b)
+[![Azure AZ-900](https://zupimages.net/up/22/30/6n0j.png)]([https://www.credly.com/badges/0ab411c6-f914-492a-90e5-d94ea846e37b](https://www.credly.com/badges/3dd900d0-b4a9-48e5-8015-1fb3eb0b8721/public_url))
 [![GitLab Certified Associate](https://zupimages.net/up/21/25/wlxn.png)](https://gitlab.badgr.com/public/assertions/aRN5Cn46TbmYymjJA7NeSA)
 [![Opquast Advanced](https://zupimages.net/up/21/25/suvk.png)](https://directory.opquast.com/fr/certificat/N5R7EP/)
